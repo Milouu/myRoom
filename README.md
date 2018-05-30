@@ -1,5 +1,6 @@
 # MelodyMaker
   Solo school project where we had to create a bedroom with WebGL using the THREE.js library.
+  Online : http://mrstn.fr/myRoom/
 
 ## Requirements 
   Need to be launched with a server such as mamp or wamp in order to be able to load textures locally.
